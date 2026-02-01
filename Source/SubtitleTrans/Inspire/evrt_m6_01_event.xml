@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FCO Table="Languages/English/Retail/12">
+  <Groups>
+    <Group Name="E_m6_01_es">
+      <Cell Name="000">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="010">
+        <Message MessageData="Що не так, друже?" />
+        <ColourMain Start="0" End="19" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="19" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="19" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="020">
+        <Message MessageData="Га?{NewLine}Ох, та..." />
+        <ColourMain Start="0" End="14" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="14" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="14" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="030">
+        <Message MessageData="Мені... лячно." />
+        <ColourMain Start="0" End="18" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="18" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="18" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="040">
+        <Message MessageData="Лячно?" />
+        <ColourMain Start="0" End="6" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="6" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="6" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="050">
+        <Message MessageData="Це ж просто ще один старий храм." />
+        <ColourMain Start="0" End="28" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="28" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="28" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="060">
+        <Message MessageData="І не схоже що хтось тут взагалі{NewLine}ходить." />
+        <ColourMain Start="0" End="50" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="50" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="50" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="070">
+        <Message MessageData="Я... не про це кажу." />
+        <ColourMain Start="0" End="32" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="32" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="32" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="080">
+        <Message MessageData="Я не..." />
+        <ColourMain Start="0" End="12" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="12" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="12" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="090">
+        <Message MessageData="Н-не зважай. Все добре.{NewLine}Ходімо!" />
+        <ColourMain Start="0" End="32" Marker="2" Alpha="255" Red="255" Green="255" Blue="255" />
+        <ColourSub1 Start="0" End="32" Marker="1" Alpha="0" Red="0" Green="0" Blue="28" />
+        <ColourSub2 Start="0" End="32" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="100">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="110">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="120">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="130">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="140">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="150">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="160">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="170">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="180">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="190">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+      <Cell Name="200">
+        <Message MessageData="" />
+        <ColourMain Start="0" End="-1" Marker="2" Alpha="255" Red="0" Green="0" Blue="0" />
+        <ColourSub1 Start="0" End="-1" Marker="1" Alpha="0" Red="0" Green="0" Blue="11" />
+        <ColourSub2 Start="0" End="-1" Marker="0" Alpha="0" Red="0" Green="0" Blue="1" />
+      </Cell>
+    </Group>
+  </Groups>
+</FCO>
